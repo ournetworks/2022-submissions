@@ -12,7 +12,7 @@ assignees: ''
 
 Type: [ streamed talk | virtual workshop | performance | study group | other activation (describe!) ]  
 Length*: [ 30 minutes | 1 hours | 2 hours | other (describe!) ]  
-Date: [ before August 7 | between August 7-9 | ]  
+Date: [ before November 14 | between November 14-27 | ]  
 Duration: [ once | repeats (describe!) | ongoing | other (describe!) ]
 Language: [ english | french | ojibwe | spanish | other (describe!) ]
 
