@@ -9,7 +9,8 @@ assignees: ''
 
 ## Description
 
-Note: We are not hosting a conference, but instead facilitating the creation of a wiki about a conference that could take place in 2047. We will use proposals made here to pre-seed the wiki with a "conference schedule". Between Nov 14 and 27, we will host a series of online writeathons, where we will make space for you to introduce your idea and expand on it yourself or with others
+📣 _Please Note: We are not hosting a conference, but instead facilitating the creation of a wiki about a conference that could take place in 2047. We will  pre-seed the wiki with submissions made here as a "conference schedule". Between November 14 - 27, 2022 we will host a series of online writeathons where you may introduce your idea and expand on it yourself or with others, you will also be able to participate and edit the wiki fully asynchronously._
+
 
 [Description that is 1-2 paragraphs (75 - 150 words) of what you plan to do]
 
