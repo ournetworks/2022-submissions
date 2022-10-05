@@ -20,9 +20,6 @@ Date: [ before November 14 | between November 14-27 | ]
 Duration: [ once | repeats (describe!) | ongoing | other (describe!) ]
 Language: [ english | french | ojibwe | spanish | other (describe!) ]
 
-## Objective
-
-[Identify 1-3 key objectives for the session (could be participant takeaways or outcomes)]
 
 ## Presenter(s)
 
