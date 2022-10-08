@@ -21,13 +21,16 @@ Duration: [ once | repeats (describe!) | ongoing | other (describe!) ]
 Language: [ english | french | ojibwe | spanish | other (describe!) ]
 
 
-## Presenter(s)
+## Presenter(s) - 2047
+
+📣 _Please Note: This could be yourself in 2047 or a character you've created._
 
 Name: Your Name  
 Email: name@youremail.com  
 Url(s): [yourwebsite.com](url to website), [yourotherwebsite.com](url to another website)  
 Twitter: [@you](url to twitter account)  
-GitHub: [you](url to GitHub account)  
+Fediverse:  [@you](url to mastodon, friendica, etc... account)
+SSB: [@you](hash or address to SSB profile)
 
 ## Presenter Bio
 
@@ -35,3 +38,13 @@ GitHub: [you](url to GitHub account)
 
 
 [If multiple presenters, please provide info and bio for all]
+
+--
+
+## Submitter Info - 2022
+
+📣 _Please Note: This should be your name and contact info in 2022._
+
+
+Name: Your Name  
+Email: name@youremail.com  
